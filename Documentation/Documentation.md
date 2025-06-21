@@ -1,7 +1,7 @@
 # CardioMark Documentation
  
 ## Getting Started
-To begin using CardioMar, download **CardioMark Manual.pdf** from the repository.
+To begin using CardioMark, download **CardioMark Manual.pdf** from the repository.
 
 
  
