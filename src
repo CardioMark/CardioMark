@@ -1,2 +1,0 @@
-Source Code for CardioMark
-The software can be run by adding its folder to the MATLAB search path and opening “CardioMark.mlapp” or by installing the “CardioMark.mlappinstall” file; then the software can be found in the APPS menu in MATLAB. MATLAB’s Signal Processing Toolbox is required, but it can be easily replaced with a few custom-made functions.
