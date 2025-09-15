@@ -29,10 +29,8 @@ This software requires only a basic **MATLAB** .
 ## Installation
 The software can be run by adding its folder to the MATLAB search path and opening **“CardioMark.mlapp”** or by installing the **“CardioMark V1.0.mlappinstall”** file; then the software can be found in the APPS menu in MATLAB.
 
-## Documentation
- # CardioMark Documentation
 
-## Getting Started
+## Documentation & Getting Started
 
 To begin using CardioMark, you can access the user manual in one of the following ways:
 
